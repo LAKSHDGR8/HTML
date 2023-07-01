@@ -1,0 +1,4 @@
+,,,,,,
+,account_type,varchar(1),,,,
+,account_desc,varchar(10),,,,
+,multiplier,int(11),,,,
